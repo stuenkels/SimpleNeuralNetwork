@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eli/Documents/cProjects/SimpleNeuralNetwork/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SimpleNeuralNetwork.dir/src/main.cpp.o -c /home/eli/Documents/cProjects/SimpleNeuralNetwork/src/main.cpp",
+  "file": "/home/eli/Documents/cProjects/SimpleNeuralNetwork/src/main.cpp"
+},
+{
+  "directory": "/home/eli/Documents/cProjects/SimpleNeuralNetwork/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SimpleNeuralNetwork.dir/lib/node.cpp.o -c /home/eli/Documents/cProjects/SimpleNeuralNetwork/lib/node.cpp",
+  "file": "/home/eli/Documents/cProjects/SimpleNeuralNetwork/lib/node.cpp"
+}
+]
