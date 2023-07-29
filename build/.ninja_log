@@ -1,7 +1,0 @@
-# ninja log v5
-2	712	1690667364433520176	CMakeFiles/SimpleNeuralNetwork.dir/src/main.cpp.o	3db554d6d332d5fb
-646	788	1690667355097719376	SimpleNeuralNetwork	c2970cf357121d30
-2	48	1690667443372003119	CMakeFiles/SimpleNeuralNetwork.dir/lib/node.cpp.o	d81281b5b92a3b79
-48	216	1690667443540000143	SimpleNeuralNetwork	519d70d596d83ac1
-2	695	1690667455579789075	CMakeFiles/SimpleNeuralNetwork.dir/src/main.cpp.o	3db554d6d332d5fb
-695	831	1690667455715786714	SimpleNeuralNetwork	519d70d596d83ac1

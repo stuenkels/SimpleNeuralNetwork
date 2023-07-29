@@ -1,5 +1,0 @@
-/home/eli/Documents/cProjects/SimpleNeuralNetwork/build/CMakeFiles/SimpleNeuralNetwork.dir
-/home/eli/Documents/cProjects/SimpleNeuralNetwork/build/CMakeFiles/package.dir
-/home/eli/Documents/cProjects/SimpleNeuralNetwork/build/CMakeFiles/package_source.dir
-/home/eli/Documents/cProjects/SimpleNeuralNetwork/build/CMakeFiles/edit_cache.dir
-/home/eli/Documents/cProjects/SimpleNeuralNetwork/build/CMakeFiles/rebuild_cache.dir
