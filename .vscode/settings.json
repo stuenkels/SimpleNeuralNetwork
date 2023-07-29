@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.s": "platformio-debug.asm",
-        "unordered_map": "cpp",
-        "ostream": "cpp"
-    }
-}
