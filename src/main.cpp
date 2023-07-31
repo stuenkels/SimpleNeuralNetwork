@@ -9,6 +9,15 @@
 float grid[16][16];
 
 int main(){
+    //SDL code for window
+    SDL_Init(SDL_INIT_VIDEO);
+    SDL_Window *window = nullptr;
+    SDL_Renderer *renderer  = nullptr;
+    SDL_CreateWindowAndRenderer(400,400,0,&window, &renderer);
+    
+
+
+
 
     node inputNodes[256];
 
@@ -37,6 +46,24 @@ int main(){
     }
 
     std::cout << "Done " << std::endl;
+
+
+    bool running = true;
+
+    while(running){
+        SDL_Event e;
+        while(SDL_PollEvent(&e)){
+            if(e.type == SDL_QUIT){
+                running = false;
+            }
+        }
+
+
+
+        SDL_RenderPresent(renderer);
+        SDL_Delay(10);
+    }
+
 
     return 0;
 }
